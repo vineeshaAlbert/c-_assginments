@@ -1,0 +1,14 @@
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\bin\Debug\net8.0\Task6.exe
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\bin\Debug\net8.0\Task6.deps.json
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\bin\Debug\net8.0\Task6.dll
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\bin\Debug\net8.0\Task6.pdb
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\Task6.dll
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\refint\Task6.dll
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\Task6.pdb
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task6\obj\Debug\net8.0\ref\Task6.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E1D8F7-BFDC-4AA5-B737-4D066AFEE0E1}|Task10\\Task10.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E1D8F7-BFDC-4AA5-B737-4D066AFEE0E1}|Task10\\Task10.csproj|solutionrelative:task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6C9BDC-4D91-4820-99B9-73B58A353DFD}|Task7\\Task7.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6C9BDC-4D91-4820-99B9-73B58A353DFD}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04179E8F-8EFA-47A6-8CC4-05420453D87F}|Task6\\Task6.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04179E8F-8EFA-47A6-8CC4-05420453D87F}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2088F16F-8067-4176-BE87-091CF9A9EA90}|Task5\\Task5.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2088F16F-8067-4176-BE87-091CF9A9EA90}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD021399-2059-4138-8DB6-862D90C5122C}|Task4\\Task4.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD021399-2059-4138-8DB6-862D90C5122C}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855F8395-57A5-4EE5-8267-07DF1077A485}|Task3\\Task3.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855F8395-57A5-4EE5-8267-07DF1077A485}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44597CF1-A0A0-4078-99C5-5072982B48EB}|task2\\task2.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44597CF1-A0A0-4078-99C5-5072982B48EB}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463B6C5-80A3-4D23-B453-8A295F93BAA6}|task1\\task1.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentforrloop-soluction\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463B6C5-80A3-4D23-B453-8A295F93BAA6}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task7\\Program.cs",
+              "RelativeToolTip": "Task7\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:46:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "Task6\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task6\\Program.cs",
+              "RelativeToolTip": "Task6\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:45:35.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:43:35.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:41:25.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:40:07.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:37:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task10\\Program.cs",
+              "RelativeDocumentMoniker": "Task10\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\Task10\\Program.cs",
+              "RelativeToolTip": "Task10\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:39:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentForrLoop-soluction\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:27:51.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

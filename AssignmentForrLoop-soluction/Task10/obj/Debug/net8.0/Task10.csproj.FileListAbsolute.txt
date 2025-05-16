@@ -1,0 +1,4 @@
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task10\obj\Debug\net8.0\Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task10\obj\Debug\net8.0\Task10.AssemblyInfoInputs.cache
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task10\obj\Debug\net8.0\Task10.AssemblyInfo.cs
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentForrLoop-soluction\Task10\obj\Debug\net8.0\Task10.csproj.CoreCompileInputs.cache
