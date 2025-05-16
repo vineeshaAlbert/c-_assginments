@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9D2193-9A7C-4890-89F1-499445D5E5B5}|pattern\\pattern.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentone-solution\\pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9D2193-9A7C-4890-89F1-499445D5E5B5}|pattern\\pattern.csproj|solutionrelative:pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB4AC6B-BE5E-4588-9D07-EE5CEBF4EAB8}|AssignmentTwo\\AssignmentTwo.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentone-solution\\assignmenttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB4AC6B-BE5E-4588-9D07-EE5CEBF4EAB8}|AssignmentTwo\\AssignmentTwo.csproj|solutionrelative:assignmenttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBAD944-B484-4788-8ADF-651FD5D56E74}|AssignmentThree\\AssignmentThree.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentone-solution\\assignmentthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBAD944-B484-4788-8ADF-651FD5D56E74}|AssignmentThree\\AssignmentThree.csproj|solutionrelative:assignmentthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE37DCEB-4A7D-4D90-921E-D41144A5DBB5}|AssignmentOne\\AssignmentOne.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentone-solution\\assignmentone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE37DCEB-4A7D-4D90-921E-D41144A5DBB5}|AssignmentOne\\AssignmentOne.csproj|solutionrelative:assignmentone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE37DCEB-4A7D-4D90-921E-D41144A5DBB5}|AssignmentOne\\AssignmentOne.csproj|c:\\users\\vinee\\onedrive\\documents\\propelmaarch2025\\assignmentone-solution\\assignmentone\\assignmentone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE37DCEB-4A7D-4D90-921E-D41144A5DBB5}|AssignmentOne\\AssignmentOne.csproj|solutionrelative:assignmentone\\assignmentone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\pattern\\Program.cs",
+              "RelativeDocumentMoniker": "pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\pattern\\Program.cs",
+              "RelativeToolTip": "pattern\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:26:27.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentThree\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentThree\\Program.cs",
+              "RelativeToolTip": "AssignmentThree\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:25:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignmentOne.csproj",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentOne\\AssignmentOne.csproj",
+              "RelativeDocumentMoniker": "AssignmentOne\\AssignmentOne.csproj",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentOne\\AssignmentOne.csproj",
+              "RelativeToolTip": "AssignmentOne\\AssignmentOne.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T02:21:48.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentTwo\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentTwo\\Program.cs",
+              "RelativeToolTip": "AssignmentTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:25:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentOne\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentOne\\Program.cs",
+              "ToolTip": "C:\\Users\\vinee\\OneDrive\\Documents\\PropelMaarch2025\\AssignmentOne-Solution\\AssignmentOne\\Program.cs",
+              "RelativeToolTip": "AssignmentOne\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:52:09.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

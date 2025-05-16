@@ -1,0 +1,14 @@
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\pattern.AssemblyInfoInputs.cache
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\pattern.AssemblyInfo.cs
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\bin\Debug\net8.0\pattern.exe
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\bin\Debug\net8.0\pattern.deps.json
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\bin\Debug\net8.0\pattern.runtimeconfig.json
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\bin\Debug\net8.0\pattern.dll
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\bin\Debug\net8.0\pattern.pdb
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\pattern.dll
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\refint\pattern.dll
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\pattern.pdb
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\pattern.genruntimeconfig.cache
+C:\Users\vinee\OneDrive\Documents\PropelMaarch2025\AssignmentOne-Solution\pattern\obj\Debug\net8.0\ref\pattern.dll
